@@ -3,7 +3,7 @@
 
 
 
-在线阅读：
+在线阅读：https://liu-yang-maker.github.io/operational-research/
 
 #### 项目初衷
 
